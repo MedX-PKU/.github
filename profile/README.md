@@ -2,8 +2,8 @@
 <p align="center">北京大学医维矩阵实验室</p>
 
 <p align="center">
-  <a href="https://medx-pku.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-medx--pku.github.io-blue?style=flat-square" alt="Website">
+  <a href="https://medx.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-medx.pages.dev-blue?style=flat-square" alt="Website">
   </a>
 </p>
 
@@ -33,9 +33,9 @@
   
   ### 🌐 Connect with Us
   
-  - 🌐 **Visit our Website**: **[medx-pku.github.io](https://medx-pku.github.io/)**
+  - 🌐 **Visit our Website**: **[medx.pages.dev](https://medx.pages.dev/)**
   - 📧 **Contact Us**: Email Prof. Liantao Ma at `malt [at] pku.edu.cn`
-  - 💼 **Join Us**: We are always looking for passionate students. **[Learn More](https://medx-pku.github.io/join)**
+  - 💼 **Join Us**: We are always looking for passionate students. **[Learn More](https://medx.pages.dev/join)**
 
 </details>
 
@@ -65,8 +65,8 @@
 
   ### 🌐 联系我们
   
-  - 🌐 **访问我们的网站**: **[medx-pku.github.io](https://medx-pku.github.io/)**
+  - 🌐 **访问我们的网站**: **[medx.pages.dev](https://medx.pages.dev/)**
   - 📧 **联系我们**: 发送邮件至马连韬老师 `malt [at] pku.edu.cn`
-  - 💼 **加入我们**: 我们长期欢迎充满热情的学生加入。 **[了解更多](https://medx-pku.github.io/join)**
+  - 💼 **加入我们**: 我们长期欢迎充满热情的学生加入。 **[了解更多](https://medx.pages.dev/join)**
 
 </details>
