@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://medx-pku.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-medx-pku.com-blue?style=flat-square" alt="Website">
+    <img src="https://img.shields.io/badge/Website-medx.pku.com-blue?style=flat-square" alt="Website">
   </a>
 </p>
 
