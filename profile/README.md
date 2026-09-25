@@ -1,72 +1,36 @@
-<h1 align="center">MedX Lab @ Peking University</h1>
-<p align="center">北京大学医维矩阵实验室</p>
+<h1 align="center">MedX AI Lab</h1>
+<p align="center">医维矩阵人工智能实验室 · Peking University / 北京大学</p>
 
 <p align="center">
-  <a href="https://medx-pku.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-medx.pku.com-blue?style=flat-square" alt="Website">
-  </a>
+  <a href="https://medx-pku.com/">Website</a> ·
+  <a href="https://medx-pku.com/projects">Projects</a> ·
+  <a href="https://medx-pku.com/publications">Publications</a> ·
+  <a href="https://medx-pku.com/join">Join Us</a>
 </p>
 
-<details open>
-  <summary><strong>English</strong></summary>
-  
-  <br>
+## About us / 关于我们
 
-  > Welcome to the **MedX Lab (医维矩阵实验室)**, a medical AI research group at Peking University. We are dedicated to advancing healthcare through cutting-edge AI.
+**MedX AI Lab** is a medical AI research lab affiliated with the National Engineering Research Center for Software Engineering at Peking University and supervised by Research Assistant Professor **Liantao Ma**. We work to build trustworthy, accessible AI for clinical decision-making and medical research, in collaboration with academic and clinical partners.
 
-  ### 🎯 Core Research Directions
-  
-  | Icon | Direction                  | Description                                                                     |
-  |:----:|------------------------------|---------------------------------------------------------------------------------|
-  | 📊 | **Multimodal EHR Predictive Modeling**  | Building clinically verifiable, highly trustworthy, and interpretable deep learning frameworks. |
-  | 🧠 | **Medical LLMs & Agents**    | Developing specialized LLMs and collaborative AI agents for clinical tasks.       |
-  | 🔬 | **AI for Science Platforms** | Creating toolkits and benchmarks to accelerate medical AI research.             |
+**医维矩阵人工智能实验室**依托北京大学软件工程国家工程研究中心，由**马连韬**研究型助理教授指导。我们聚焦人工智能与医学交叉研究，与高校及临床机构合作，致力于构建高可信、易用的医学 AI，赋能临床诊疗决策与医学科研。
 
-  ### ✨ Featured Projects
-  
-  | Project                                                                            | Description                                                                     |
-  |------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-  | 🚀 **[MedAgentBoard](https://github.com/yhzhu99/MedAgentBoard)**                   | A benchmark for multi-agent collaboration in diverse medical tasks. (NeurIPS 2025) |
-  | 🤝 **[ColaCare](https://github.com/PKU-AICare/ColaCare)**                           | Enhancing EHR modeling with LLM-driven multi-agent collaboration. (WWW 2025)     |
-  | 🛠️ **[PyEHR](https://github.com/yhzhu99/pyehr)**                                   | A predictive modeling toolkit for Electronic Health Records data.                 |
-  | 📝 **[Magical](https://github.com/tianlwang/Magical)**                                | Medical lay language generation via semantic invariance and adaptation. (NeurIPS 2025) |
-  
-  ### 🌐 Connect with Us
-  
-  - 🌐 **Visit our Website**: **[medx-pku.com](https://medx-pku.com/)**
-  - 📧 **Contact Us**: Email Prof. Liantao Ma at `malt [at] pku.edu.cn`
-  - 💼 **Join Us**: We are always looking for passionate students. **[Learn More](https://medx-pku.com/join)**
+## Research / 研究方向
 
-</details>
+- **Multimodal electronic health records / 多模态电子病历** — Clinically verifiable, interpretable models for precision medicine and risk prediction.
+- **Medical foundation models and agents / 医疗大模型与智能体** — AI systems that combine clinical data and medical knowledge to support care.
+- **AI for Science platforms / 医学科研平台** — Tools and workflows that make medical AI research more accessible and reproducible.
 
-<details>
-  <summary><strong>中文</strong></summary>
-  
-  <br>
+## Open-source projects / 开源项目
 
-  > 欢迎来到北京大学 **医维矩阵实验室 (MedX Lab)**。我们是隶属于北京大学的医学人工智能研究团队，致力于通过前沿AI技术推动医疗健康领域的发展。
+- **[OneEHR](https://github.com/MedX-PKU/OneEHR)** — Toolkit for longitudinal EHR analysis and reproducible ML/DL/LLM experiments.
+- **[GestaCare](https://github.com/MedX-PKU/GestaCare)** — Dynamic prediction of preterm birth risk and gestational age.
+- **[PyEHR](https://github.com/yhzhu99/pyehr)** — Toolkit for temporal EHR predictive modeling.
+- **[MedAgentBoard](https://github.com/yhzhu99/MedAgentBoard)** — Benchmark for medical multi-agent collaboration.
 
-  ### 🎯 核心研究方向
-  
-  | 图标 | 方向                       | 描述                                                               |
-  |:----:|----------------------------|--------------------------------------------------------------------|
-  | 📊 | **多模态电子病历预测建模**       | 构建临床可验证的高可信、可解释性深度学习框架。                           |
-  | 🧠 | **医疗大模型与智能体**     | 研发面向临床任务的专用大语言模型与协作式AI智能体。                   |
-  | 🔬 | **AI for Science 平台**     | 创建开源工具包与基准测试，加速医学AI研究。                         |
+Explore more on our [projects page](https://medx-pku.com/projects).
 
-  ### ✨ 特色项目
-  
-  | 项目                                                                             | 描述                                                                    |
-  |------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-  | 🚀 **[MedAgentBoard](https://github.com/yhzhu99/MedAgentBoard)**                   | 面向复杂医疗任务的多智能体协作基准测试平台。(NeurIPS 2025)              |
-  | 🤝 **[ColaCare](https://github.com/PKU-AICare/ColaCare)**                           | 基于大语言模型驱动的多智能体协作EHR建模框架。(WWW 2025)                  |
-  | 🛠️ **[PyEHR](https://github.com/yhzhu99/pyehr)**                                   | 一个面向电子病历(EHR)数据的预测建模工具包。                               |
-  | 📝 **[Magical](https://github.com/tianlwang/Magical)**                                | 兼顾语义保真度与简化风格的医学文本通俗化生成框架。(NeurIPS 2025)          |
+## Connect / 联系我们
 
-  ### 🌐 联系我们
-  
-  - 🌐 **访问我们的网站**: **[medx-pku.com](https://medx-pku.com/)**
-  - 📧 **联系我们**: 发送邮件至马连韬老师 `malt [at] pku.edu.cn`
-  - 💼 **加入我们**: 我们长期欢迎充满热情的学生加入。 **[了解更多](https://medx-pku.com/join)**
-
-</details>
+- **Website / 网站:** https://medx-pku.com/
+- **Join the lab / 加入我们:** https://medx-pku.com/join
+- **Email / 邮箱:** medx_pku@163.com
